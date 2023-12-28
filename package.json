@@ -1,0 +1,31 @@
+{
+  "name": "trading-view-api-examples-server-node-express",
+  "version": "0.0.1",
+  "description": "An example WebSocket server that serves TradingView data collected using the TradingView-API library",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clins777/trading-view-api-examples-server-node-express.git"
+  },
+  "keywords": [
+    "tradingview",
+    "node",
+    "express",
+    "example",
+    "websocket"
+  ],
+  "author": "Caio Lins <clins7777777@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clins777/trading-view-api-examples-server-node-express/issues"
+  },
+  "homepage": "https://github.com/clins777/trading-view-api-examples-server-node-express#readme",
+  "dependencies": {
+    "@mathieuc/tradingview": "github:Mathieu2301/TradingView-API",
+    "express": "^4.18.2",
+    "ws": "^8.16.0"
+  }
+}
