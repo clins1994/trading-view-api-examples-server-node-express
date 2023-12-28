@@ -2,6 +2,8 @@
 
 This is an example node.js server that uses [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API) to get TradingView simple chart data and forwards it to a client via WebSockets
 
+![demo](demo.gif)
+
 1. Sets up a simple WebSocket server
 2. When a client connects to the WebSocket server it will open up another WebSocket connection to get TradingView data by using [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API)
 3. When the TradingView WebSocket gives us any data, that data will be forwarded to the client
