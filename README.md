@@ -84,6 +84,6 @@ I hope this was helpful for your project
 
 If you liked this project and want to see more like it please consider sponsoring
 
-Feel free to reach out on Twitter or Telegram (@clins777)
+Feel free to reach out on Twitter or Telegram (@clins1994)
 
 Cheers 🍻
